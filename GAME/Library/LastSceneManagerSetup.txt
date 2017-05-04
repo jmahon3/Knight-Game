@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/GameTerrain.unity
+  isLoaded: 1
+  isActive: 1
